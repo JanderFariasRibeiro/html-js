@@ -26,3 +26,5 @@ let tamanhos = ['P', 'M', 'G', 43, 42, 41]
 //boolean
 let tempet = true;
 
+let dataCadastro = new Date(); //pega a data atual e hora atual
+console.log(dataCadastro);
